@@ -31,14 +31,14 @@ header {
 }
 
 .header__navigation li {
-    margin-right: 25px;
+    margin-right: 35px;
 }
 .header__navigation li:last-child {
     margin-right: 0px;
 }
 
 .header__navigation a {
-    font-size: .9rem;
+    font-size: calc(.7rem + .5vw);
     text-decoration: none;
     font-weight: bold;
     color: #807d7d;
